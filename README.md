@@ -1,4 +1,4 @@
-# ATML_proj
+# Genre Identification on Project Gutenberg corpus
 ## Introduction
 
 Classification of literary genre of books can hugely benefited by the usage of semantic features rather than
