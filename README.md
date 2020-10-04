@@ -8,9 +8,7 @@ model trained on semantic features performs better than a model trained on bag o
 ## Toolkit
 Language   : Python
 
-Libraries  :  *Spacy 
-              *Pandas 
-              *Sklearn
+Libraries  : BeatuifulSoup, Spacy, Pandas and Sklearn
 
 ## Workflow
 
