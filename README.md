@@ -5,6 +5,11 @@ Classification of literary genre of books can hugely benefited by the usage of s
 simple bag of words representation. Implementation was carried under the  assumption that
 model trained on semantic features performs better than a model trained on bag of words as features.
 
+## Toolkit
+Language   : Python
+
+Libraries  :  Spacy, Pandas, and Sklearn
+
 ## Workflow
 
 ### Pre-processing
@@ -33,7 +38,4 @@ Random Forest classifier was used to identify the genre of a book using the extr
 Performance of the model was compared against the baseline model. Baseline model was built
 on simple bag of words representation.
 
-## Technology
-Language   : Python
 
-Libraries  : Spacy, Pandas, and Sklearn
