@@ -34,6 +34,6 @@ Performance of the model was compared against the baseline model. Baseline model
 on simple bag of words representation.
 
 ## Technology
-Language   :Python
+Language   : Python
 
-Libraries  :Spacy, Pandas, and Sklearn
+Libraries  : Spacy, Pandas, and Sklearn
