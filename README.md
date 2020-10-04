@@ -32,3 +32,7 @@ Random Forest classifier was used to identify the genre of a book using the extr
 
 Performance of the model was compared against the baseline model. Baseline model was built
 on simple bag of words representation.
+
+## Technologies and libraries
+Language used : Python
+Libraries     : Spacy, Pandas, and Sklearn
