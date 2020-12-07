@@ -6,7 +6,7 @@ simple bag of words representation. Certain handcrafted features pertaining to a
 were extracted from books to build a classifier that predicts the genre of a book.
 It was assumed that model trained on semantic features performs better than a model trained on bag of words.
 
-## Toolkit
+## Technology used
 Language   : Python
 
 Libraries  : BeatuifulSoup, Spacy, Pandas and Sklearn
