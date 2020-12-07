@@ -34,7 +34,8 @@ Random Forest classifier was used to identify the genre of a book using the extr
 
 ### Evaluation
 
-Performance of the model was compared against the baseline model. Baseline model was implemented
-using simple bag of words approach (TF-IDF).
+A baseline model to classify the genre of a book was implemented using simple bag of words approach (TF-IDF). 
+We used baseline model as a way to check whether a model using handcrafted features to classify genre of book 
+performed better when compared with TF-IDF approach.
 
 
