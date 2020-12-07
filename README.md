@@ -2,8 +2,9 @@
 ## Introduction
 
 Classification of literary genre of books can hugely benefited by the usage of semantic features rather than
-simple bag of words representation. Implementation was carried under the  assumption that
-model trained on semantic features performs better than a model trained on bag of words as features.
+simple bag of words representation. Certain handcrafted features pertaining to author's writing style, sentiment etc.
+were extracted from books to build a classifier that predicts the genre of a book.
+It was assumed that model trained on semantic features performs better than a model trained on bag of words.
 
 ## Toolkit
 Language   : Python
