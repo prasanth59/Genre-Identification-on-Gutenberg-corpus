@@ -13,10 +13,9 @@ Libraries  : BeatuifulSoup, Spacy, Pandas and Sklearn
 ## Workflow
 
 ### Pre-processing
-
-To better classify the book, it can be divided into multiple sub texts of equal length. Corpus will be
-divided only  into train and test sets as we have less data. Train set was used to train
-models along with their hyper parameter tuning. Finally, test set to predict/identify the genre of a unknown instances. 
+The content of the books was procvided in form of html files. To parse the html files and extract the textual content 
+BeautifulSoup library was used. To perform the basic pre-processing steps on the textual content of the book 
+we have used spacy nlp pipeline.
 
 ### Feature Extraction
 
