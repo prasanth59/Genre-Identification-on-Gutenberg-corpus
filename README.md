@@ -14,8 +14,8 @@ Libraries  : BeatuifulSoup, Spacy, Pandas and Sklearn
 
 ### Pre-processing
 The content of the books was procvided in form of html files. To parse the html files and extract the textual content 
-BeautifulSoup library was used. To perform the basic pre-processing steps on the textual content of the book 
-we have used spacy nlp pipeline.
+BeautifulSoup library was used. Spacy nlp pipeline was used later to perform the basic pre-processing steps on 
+the textual content of the book.
 
 ### Feature Extraction
 
